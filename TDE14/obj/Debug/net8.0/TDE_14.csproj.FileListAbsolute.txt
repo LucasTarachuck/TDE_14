@@ -1,0 +1,14 @@
+C:\Users\InfoHaus\Desktop\LP\TDE_14\bin\Debug\net8.0\TDE_14.exe
+C:\Users\InfoHaus\Desktop\LP\TDE_14\bin\Debug\net8.0\TDE_14.deps.json
+C:\Users\InfoHaus\Desktop\LP\TDE_14\bin\Debug\net8.0\TDE_14.runtimeconfig.json
+C:\Users\InfoHaus\Desktop\LP\TDE_14\bin\Debug\net8.0\TDE_14.dll
+C:\Users\InfoHaus\Desktop\LP\TDE_14\bin\Debug\net8.0\TDE_14.pdb
+C:\Users\InfoHaus\Desktop\LP\TDE_14\obj\Debug\net8.0\TDE_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InfoHaus\Desktop\LP\TDE_14\obj\Debug\net8.0\TDE_14.AssemblyInfoInputs.cache
+C:\Users\InfoHaus\Desktop\LP\TDE_14\obj\Debug\net8.0\TDE_14.AssemblyInfo.cs
+C:\Users\InfoHaus\Desktop\LP\TDE_14\obj\Debug\net8.0\TDE_14.csproj.CoreCompileInputs.cache
+C:\Users\InfoHaus\Desktop\LP\TDE_14\obj\Debug\net8.0\TDE_14.dll
+C:\Users\InfoHaus\Desktop\LP\TDE_14\obj\Debug\net8.0\refint\TDE_14.dll
+C:\Users\InfoHaus\Desktop\LP\TDE_14\obj\Debug\net8.0\TDE_14.pdb
+C:\Users\InfoHaus\Desktop\LP\TDE_14\obj\Debug\net8.0\TDE_14.genruntimeconfig.cache
+C:\Users\InfoHaus\Desktop\LP\TDE_14\obj\Debug\net8.0\ref\TDE_14.dll
